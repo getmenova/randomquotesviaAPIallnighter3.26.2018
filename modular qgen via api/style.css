@@ -1,0 +1,33 @@
+      .body {
+      	padding-top: 25px;
+      }
+      .quote {
+      	font-family: 'Oswald', serif;
+      	font-size: 3em;
+      	color: white;
+      	text-shadow: 1px 1px 1px #ffe;
+      }
+      .author {
+      	font-family: 'Lato', serif;
+      	font-size: 1.2em;
+      	color: white;
+      	text-shadow: 1px 1px 1px #ffe;
+      	padding-bottom: 5px;
+      }
+      .quote-page {
+      	padding-bottom: 25px;
+      }
+      #q {
+      	font-size: 3em;
+      	color: white;
+      	text-shadow: 1px 1px 1px #ffe;
+      }
+      #twitter {
+      	font-size: 1em;
+      	color: white;
+      }
+      .copy {
+      	color: white;
+      	font-family: 'Lato', serif;
+      	font-size: 1em;
+      }
